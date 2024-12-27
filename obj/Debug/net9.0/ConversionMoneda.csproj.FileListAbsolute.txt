@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\bin\Debug\net9.0\ConversionMoneda.exe
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\bin\Debug\net9.0\ConversionMoneda.deps.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\bin\Debug\net9.0\ConversionMoneda.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\bin\Debug\net9.0\ConversionMoneda.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\bin\Debug\net9.0\ConversionMoneda.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\refint\ConversionMoneda.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ConversionMoneda.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\ConversionMoneda\obj\Debug\net9.0\ref\ConversionMoneda.dll
